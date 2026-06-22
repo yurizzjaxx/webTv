@@ -1,0 +1,17 @@
+{
+  "pages": [
+    {
+      "items": [
+        {
+          "type": "default",
+          "layout": "0,0,12,6",
+          "color": "msx-glass",
+          "headline": "Bem-vindo à versão v0.6! Atualização com vídeo e imagem.",
+          "text": [
+            "Esta API de vídeo para {txt:msx:while:smart TV} com IPTV conhece o editor de TV (m3u){br}{br}"
+          ]
+        }
+      ]
+    }
+  ]
+}
