@@ -1,5 +1,6 @@
 {
   "headline": "Github por yuriZzjaxxZT Support",
+  "background": "https://i.ibb.co/k26HnPNB/20260621-175525.png",
   "menu": [
     {
       "icon": "info",
@@ -7,8 +8,8 @@
     },
     {
       "icon": "image",
-      "label": "imagens"
+      "label": "imagens",
+      "data": "https://yurizzjaxx.github.io/msx/data/image.json"
     }
-  ],
-  "background": "https://i.ibb.co/k26HnPNB/20260621-175525.png"
+  ]
 }
