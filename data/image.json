@@ -1,34 +1,18 @@
 {
-   "type": "pages",
-   "background": "https://i.ibb.co/k26HnPNB/20260621-175525.png",
-   "headline": "Images",
-   "template": {
-      "type": "default",
-      "layout": "0,0,3,2",
-      "color": "msx-glass",
-      "imageFiller": "cover",
-      "action": "image:context"
-   },
-   "items": [
-      {
-         "titleFooter": "Image 1",
-         "image": "https://i.ibb.co/k26HnPNB/20260621-175525.png",
-         "imageLabel": "Image 1"
-      },
-      {
-         "titleFooter": "Image 2",
-         "image": "http://msx.benzac.de/img/bg2.jpg",
-         "imageLabel": "Image 2"
-      },
-      {
-         "titleFooter": "Image 3",
-         "image": "http://msx.benzac.de/img/bg3.jpg",
-         "imageLabel": "Image 3"
-      },
-      {
-         "titleFooter": "Image 4",
-         "image": "http://msx.benzac.de/img/test.jpg",
-         "imageLabel": "Image 4"
-      }
-   ]
+  "type": "pages",
+  "headline": "imagens nuvem",
+  "template": {
+    "type": "default",
+    "layout": "0,0,3,2",
+    "color": "msx-glass",
+    "imageFiller": "cover",
+    "action": "image:context"
+  },
+  "items": [
+    {
+      "titleFooter": "Image 1",
+      "image": "https://i.ibb.co/Z1tk9pZR/20260130-011852.png",
+      "imageLabel": "hu tao"
+    }
+  ]
 }
