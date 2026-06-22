@@ -4,7 +4,8 @@
   "menu": [
     {
       "icon": "info",
-      "label": "bem-vindo"
+      "label": "bem-vindo",
+      "data": "https://yurizzjaxx.github.io/msx/info.json"
     },
     {
       "icon": "image",
