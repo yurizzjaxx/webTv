@@ -1,1 +1,18 @@
-
+{
+  "type": "pages",
+  "headline": "Videos",
+  "template": {
+    "tag": "Web",
+    "type": "separate",
+    "layout": "0,0,2,4",
+    "icon": "msx-white-soft:movie",
+    "color": "msx-glass"
+  },
+  "items": [
+    {
+      "title": "Video 1",
+      "playerLabel": "Video 1",
+      "action": "video:https://download1348.mediafire.com/6nsnqvwng7kggTTGqoMpS18QoMo7ghOBn4oONx8WPTNrAl-XUL7fkUVCDywTRXzxT3nLSxN_-zrOzEoiza4fNcY7dd0Ag0vUBvxJp1Emfu4jxu1xz3p78N_kws-53fF_MxkWRY9kgGLGxrDsdJGDzZLNWBW8AT05Ik_x0IpuKQ/nc1o3xmwhdzpz2l/90408-626004752_small.mp4"
+    }
+  ]
+}
