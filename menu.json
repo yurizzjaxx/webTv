@@ -20,7 +20,7 @@
       "icon": "movie",
       "label": "Video",
       "data": "https://yurizzjaxx.github.io/msx/data/video.json",
-      "extension": "12"
+      "extensionLabel": "12"
     },
     {
       "icon": "info",
