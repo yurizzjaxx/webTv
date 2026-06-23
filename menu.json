@@ -1,9 +1,9 @@
 {
-  "headline": "yuriZzjaxxZT v0.6",
+  "headline": "smartTVA v0.7",
   "background": "https://i.ibb.co/k26HnPNB/20260621-175525.png",
   "menu": [
     {
-      "icon": "info",
+      "icon": "account-circle",
       "label": "bem-vindo",
       "data": "https://yurizzjaxx.github.io/msx/info.json"
     },
