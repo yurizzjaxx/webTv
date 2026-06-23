@@ -17,10 +17,14 @@
       "data": "https://yurizzjaxx.github.io/msx/data/image.json"
     },
     {
+      "type": "separator",
+      "label": "Lista da anime"
+    },
+    {
       "icon": "movie",
       "label": "Video da anime",
       "data": "https://yurizzjaxx.github.io/msx/data/video.json",
-      "extensionLabel": "12"
+      "extensionLabel": "lista: 12"
     },
     {
       "icon": "info",
