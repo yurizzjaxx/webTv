@@ -18,7 +18,7 @@
     },
     {
       "icon": "movie",
-      "label": "Video",
+      "label": "Video da anime",
       "data": "https://yurizzjaxx.github.io/msx/data/video.json",
       "extensionLabel": "12"
     },
