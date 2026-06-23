@@ -8,6 +8,10 @@
       "data": "https://yurizzjaxx.github.io/msx/info.json"
     },
     {
+      "type": "separator",
+      "label": "Canel lista"
+    },
+    {
       "icon": "image",
       "label": "imagens",
       "data": "https://yurizzjaxx.github.io/msx/data/image.json"
@@ -15,7 +19,8 @@
     {
       "icon": "movie",
       "label": "Video",
-      "data": "https://yurizzjaxx.github.io/msx/data/video.json"
+      "data": "https://yurizzjaxx.github.io/msx/data/video.json",
+      "extension": "12"
     },
     {
       "icon": "info",
