@@ -13,7 +13,7 @@
       "data": "https://yurizzjaxx.github.io/msx/data/image.json"
     },
     {
-      "info": "movie",
+      "icon": "movie",
       "label": "Video",
       "data": "https://yurizzjaxx.github.io/msx/data/video.json"
     }
