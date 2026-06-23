@@ -18,11 +18,12 @@
     },
     {
       "type": "separator",
-      "label": "Lista da anime"
+      "label": "Vídeo da anime",
+      "icon": "article"
     },
     {
       "icon": "movie",
-      "label": "Video da anime",
+      "label": "Reincarnated as a Sword",
       "data": "https://yurizzjaxx.github.io/msx/data/video.json",
       "extensionLabel": "lista: 12"
     },
