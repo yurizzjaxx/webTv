@@ -3,6 +3,7 @@
     "version": "1.2.0",
     "parameter": "menu:https://yurizzjaxx.github.io/msx/menu.json",
     "launcher": {
-        "icon": "pages"
+        "icon": "pages",
+        "image": "https://i.ibb.co/8nfL92nd/Femme-Soule-8.jpg"
     }
 }
