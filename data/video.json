@@ -1,6 +1,6 @@
 {
   "type": "pages",
-  "headline": "Videos",
+  "headline": "Anime",
   "template": {
     "tag": "Web",
     "type": "separate",
@@ -12,12 +12,14 @@
     {
       "title": "Reincarnated as a Sword_1.mp4",
       "action": "video:https://www.googleapis.com/drive/v3/files/1QuUVgzbWtlXNMHhhXB0mbNtpUwbEy_kU?alt\u003dmedia\u0026key\u003dAIzaSyDII1As57IXykLIStvpVcTlbIBWPBgnZ4o",
-      "playerLabel": "Reincarnated as a Sword_1.mp4"
+      "playerLabel": "Reincarnated as a Sword_1.mp4",
+      "image": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNKt_J0joR63FgvhhS9oSX09lHtTAsYP8lH1re9tYpE4vC3UEjBSRGX375QjLW5eETThstCGzWjTZOrtMtoi4Z6rW02pJ-KRwC9Vc1j\u003ds220"
     },
     {
       "title": "Reincarnated as a Sword_2.mp4",
       "action": "video:https://www.googleapis.com/drive/v3/files/1FfZbSuO0d2e2Lu1mV7sivPb3zC05sGEx?alt\u003dmedia\u0026key\u003dAIzaSyDII1As57IXykLIStvpVcTlbIBWPBgnZ4o",
-      "playerLabel": "Reincarnated as a Sword_2.mp4"
+      "playerLabel": "Reincarnated as a Sword_2.mp4",
+      "image": "https://lh3.googleusercontent.com/drive-storage/AJQWtBO_dl-EMdtwxUGdklTENKu4dx1tHtJcvZ9O0VU0SRmeYfA4bGKLOfFOo_7YSD9KYtmg9DNJRiyR4BOPo09v2f-SnDqTLamzoi1lTW0\u003ds220"
     },
     {
       "title": "Reincarnated as a Sword_3.mp4",
